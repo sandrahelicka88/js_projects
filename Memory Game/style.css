@@ -1,0 +1,11 @@
+.container{
+	width: 100%;
+	margin: 0 auto;
+	}
+.card{
+	float: left;
+	margin: 15px;
+	width: 200px;
+	height: 150px;
+	background-color: red;
+	}
